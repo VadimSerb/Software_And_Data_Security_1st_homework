@@ -1,0 +1,4 @@
+#!/bin/bash
+
+g++ SDS1homework.cpp -O3 -o SDS1homework # Компиляция с оптимизацией О3
+strip -s SDS1homework # Применение утилиты strip
