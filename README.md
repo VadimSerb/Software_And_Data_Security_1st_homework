@@ -24,7 +24,7 @@
 
 ## Алгоритм генерации ключа
 
-Я придумал и реализовал следующий алгоритм:
+Я придумал и реализовал следующий алгоритм (весь понятный код алгоритма в файле ```SDS1homework_old(not protected).cpp```):
 
 ![Альтернативный текст](https://sun9-51.userapi.com/impg/Jzw4fF7lhi7xKecoZDTt6qI0So5tYCxdb-bSeQ/9hEL6Lr-BrE.jpg?size=1553x687&quality=96&sign=a2380cf25a2030c42e5fcbee8b7a2f20&type=album)
 
