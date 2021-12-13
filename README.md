@@ -65,4 +65,4 @@
 
 ![Альтернативный текст](https://sun9-53.userapi.com/impg/jpRujClBxSKX2ItygIQQ-SuLuIZGygBqyu51DA/HWgKLRpJRRg.jpg?size=916x78&quality=96&sign=69a52c906c19e25f8b339631189b04fe&type=album)
 
-![Альтернативный текст](https://sun9-2.userapi.com/impg/nHMr8IUnZMkt4iGkj5shyenx-XCe1u33aE3jjg/bSnKryAiU4k.jpg?size=936x102&quality=96&sign=1cfe4158361c1eb4a071a14e4a0d699f&type=album)
+![Альтернативный текст](https://sun9-43.userapi.com/impg/UEdo_ouuT44dC5VJmKsoqxQo1_eeGYtoPXP5Zw/rdIJqSmvQmM.jpg?size=936x82&quality=96&sign=21dcd163796bd0b5cbc441a2edda3973&type=album)
