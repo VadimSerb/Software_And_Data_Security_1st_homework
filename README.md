@@ -27,3 +27,5 @@
 Я придумал и реализовал следующий алгоритм:
 
 ![Альтернативный текст](https://sun9-51.userapi.com/impg/Jzw4fF7lhi7xKecoZDTt6qI0So5tYCxdb-bSeQ/9hEL6Lr-BrE.jpg?size=1553x687&quality=96&sign=a2380cf25a2030c42e5fcbee8b7a2f20&type=album)
+
+
